@@ -2,7 +2,18 @@
 
 # Production Scheduling Identification: An Inverse Optimization Approach for Industrial Load Modeling Using Smart Meter Data
 
-This repository contains data and code related to my new research project on "Production Scheduling Identification: An Inverse Optimization Approach for Industrial Load Modeling Using Smart Meter Data".
+This repository contains data and code for our paper "Production Scheduling Identification: An Inverse Optimization Approach for Industrial Load Modeling Using Smart Meter Data", which has been accepted by IEEE Transactions on Smart Grid.
+
+If you find this code useful for your research, please consider citing our paper:
+```bibtex
+@article{lyu2024production,
+  title={Production Scheduling Identification: An Inverse Optimization Approach for Industrial Load Modeling Using Smart Meter Data},
+  author={Ruike Lyu, Hongye Guo, Qinghu Tang, Qixin Chen, Chongqing Kang},
+  journal={IEEE Transactions on Smart Grid},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 ## File Structure Overview
 - `data_prepare` folder: Contains code that utilizes PJM electricity price data and a state-task network (STN) model constructed based on parameters from literature for simulating optimal energy utilization results for these two factories on different dates.
@@ -15,7 +26,10 @@ Please note that this is a standalone research code repository with concise comm
 
 # 生产调度识别：利用智能电表数据的工业负荷参数辨识
 
-这个代码库包含了我自己编写的与新研究相关的数据和代码，主题是《生产调度识别：利用智能电表数据的工业负荷参数辨识》。
+这个代码库包含了与我们发表在 IEEE Transactions on Smart Grid 的论文相关的数据和代码。
+
+如果您觉得这些代码对您的研究有帮助，请考虑引用我们的论文。
+```
 
 ## 文件结构说明
 - `data_prepare` 文件夹: 包含利用PJM电价数据和基于文献中水泥厂和钢厂参数构建的状态-任务网络（STN）模型来模拟这两个工厂在不同日期下的最优能源利用结果的代码。
