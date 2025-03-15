@@ -4,6 +4,9 @@
 
 Video: https://www.bilibili.com/video/BV1bXQDYcE8Y/?vd_source=18e4b7b95b505bbe9bf571ca4ff73d55
 
+
+![image](https://github.com/user-attachments/assets/3392dc91-1d46-48f3-96fa-cc7e0b19fbc9)
+
 This repository contains data and code for our paper "Production Scheduling Identification: An Inverse Optimization Approach for Industrial Load Modeling Using Smart Meter Data", which has been accepted by IEEE Transactions on Smart Grid.
 
 If you find this code useful for your research, please consider citing our paper:
@@ -93,7 +96,6 @@ The PSI method has several limitations:
 - Mainly suitable for industrial loads that can be described by STN model
 - May not be applicable to all types of industrial processes
 
-![image](https://github.com/user-attachments/assets/3392dc91-1d46-48f3-96fa-cc7e0b19fbc9)
 
 ## 中文版README
 
