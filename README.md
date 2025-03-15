@@ -2,6 +2,8 @@
 
 # Production Scheduling Identification: An Inverse Optimization Approach for Industrial Load Modeling Using Smart Meter Data
 
+Video: https://www.bilibili.com/video/BV1bXQDYcE8Y/?vd_source=18e4b7b95b505bbe9bf571ca4ff73d55
+
 This repository contains data and code for our paper "Production Scheduling Identification: An Inverse Optimization Approach for Industrial Load Modeling Using Smart Meter Data", which has been accepted by IEEE Transactions on Smart Grid.
 
 If you find this code useful for your research, please consider citing our paper:
