@@ -93,6 +93,7 @@ The PSI method has several limitations:
 - Mainly suitable for industrial loads that can be described by STN model
 - May not be applicable to all types of industrial processes
 
+![image](https://github.com/user-attachments/assets/3392dc91-1d46-48f3-96fa-cc7e0b19fbc9)
 
 ## 中文版README
 
@@ -101,7 +102,7 @@ The PSI method has several limitations:
 这个代码库包含了与我们发表在 IEEE Transactions on Smart Grid 的论文相关的数据和代码。
 
 如果您觉得这些代码对您的研究有帮助，请考虑引用我们的论文。
-```
+
 
 ## 文件结构说明
 - `data_prepare` 文件夹: 包含利用PJM电价数据和基于文献中水泥厂和钢厂参数构建的状态-任务网络（STN）模型来模拟这两个工厂在不同日期下的最优能源利用结果的代码。
