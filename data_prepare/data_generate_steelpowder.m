@@ -54,8 +54,6 @@ Price_days_train = Price_days(:, 1 : 21);
 Price_days_cv = Price_days(:, 22 : end);
 
 %% August data for testing set (load baseline)
-% Read parameters
-parameter_Lu_milp;
 
 % Read prices
 data_price_2;
